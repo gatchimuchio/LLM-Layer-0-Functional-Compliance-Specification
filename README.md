@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19826582.svg)
+
+](https://doi.org/10.5281/zenodo.19826582)
+
 # Layer-0 Mathematical Functional Necessity Theorem for Large Language Models
 
 **Version:** v3.0 / Layer A appendix v0.5  
