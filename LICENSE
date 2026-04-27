@@ -1,0 +1,22 @@
+# License Summary
+
+This repository uses a dual-license structure.
+
+## Code
+
+All source code, including Python scripts, Makefile recipes, and verification utilities, is licensed under the MIT License.
+
+See: `LICENSE-MIT`
+
+## Documentation and research artifacts
+
+Reports, tables, CSV/JSON artifacts, README files, and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+See: `LICENSE-CC-BY-4.0`
+
+## SPDX summary
+
+- Code: `MIT`
+- Documentation/reports/data artifacts: `CC-BY-4.0`
+
+This file is a repository-level summary. In case of conflict, the individual license files control their respective scopes.

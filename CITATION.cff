@@ -1,0 +1,12 @@
+cff-version: "v3.0"
+title: "Layer-0 Mathematical Functional Necessity Theorem for Large Language Models"
+message: "If you use this repository, please cite it as a reproducible term-explication and finite-specification audit package for the Layer-0 functional minimum of Large Language Models."
+type: software
+authors:
+  - family-names: "Ohira"
+    given-names: "Teppei"
+version: "v3.0"
+date-released: "2026-04-27"
+abstract: >
+  This repository provides a formal mathematical functional-necessity theorem for the Layer-0 minimum of Large Language Models, a declared obligation-graph enumeration over the six-role set, and public witness tables separating the LLM root from Transformer, Dense, MoE, SSM, recurrent, and frontier implementation branches.
+license: "MIT AND CC-BY-4.0"
